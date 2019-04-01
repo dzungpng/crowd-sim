@@ -652,3 +652,573 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.01-04.05.35:841][948]BlueprintLog: New page: Compile AINavController
 [2019.04.01-04.05.35:845][948]LogBlueprint: Error: [Compiler AINavController] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' must have an input wired into it ("by ref" params expect a valid input to operate on).
 [2019.04.01-04.05.36:014][948]LogBlueprint: Warning: [Compiler AINavController] [1108.43] Compile of AINavController failed. 1 Fatal Issue(s) 0 Warning(s) [in 172 ms] (/Game/ThirdPersonBP/Blueprints/AINavController.AINavController)
+[2019.04.01-04.06.56:457][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AINavController" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavController.uasset" SILENT=true
+[2019.04.01-04.06.56:476][549]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavController6F5D7BB240BF50CECA8D3198ACF5452A.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavController.uasset'
+[2019.04.01-04.06.56:988][609]BlueprintLog: New page: Compile AINavController
+[2019.04.01-04.07.02:957][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AINavCharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset" SILENT=true
+[2019.04.01-04.07.03:011][297]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavCharacter92344677430C263E7EAEC1B612C2DCFB.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset'
+[2019.04.01-04.08.40:787][856]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.037
+[2019.04.01-04.08.40:788][856]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AINavCharacter] ([1] browsable assets)...
+[2019.04.01-04.08.40:800][856]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AINavCharacter.AINavCharacter]
+[2019.04.01-04.08.40:800][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AINavCharacter]
+[2019.04.01-04.08.40:849][856]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavCharacter_Auto2F74A9DD84CF64ADBA0BF3289B06542F6.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AINavCharacter_Auto2.uasset'
+[2019.04.01-04.08.40:851][856]LogFileHelpers: Auto-saving content packages took 0.063
+[2019.04.01-04.10.47:971][ 53]BlueprintLog: New page: Compile AINavCharacter
+[2019.04.01-04.10.50:603][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AINavCharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset" SILENT=true
+[2019.04.01-04.10.50:655][332]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavCharacterBD1B2AE5467AA1AAC5030AB91E9F0701.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset'
+[2019.04.01-04.15.13:733][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.15.22:819][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.17.54:662][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.18.02:981][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AINavCharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset" SILENT=true
+[2019.04.01-04.18.03:029][644]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavCharacterBECCCC004D679FF106B97D8F98061A47.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset'
+[2019.04.01-04.18.33:053][535]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2019.04.01-04.18.58:642][585]LogEditorViewport: Clicking on Actor (LMB): AINavCharacter_C (AINavCharacter)
+[2019.04.01-04.19.04:106][214]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2019.04.01-04.19.13:868][366]Cmd: TRANSACTION UNDO
+[2019.04.01-04.19.13:868][366]LogEditorTransaction: Undo Move Actors
+[2019.04.01-04.19.14:360][423]Cmd: TRANSACTION UNDO
+[2019.04.01-04.19.14:360][423]LogEditorTransaction: Undo Move Actors
+[2019.04.01-04.19.14:710][464]Cmd: TRANSACTION UNDO
+[2019.04.01-04.19.14:710][464]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.01-04.19.28:128][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.19.29:809][230]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2019.04.01-04.19.31:895][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.19.36:554][ 26]LogEditorViewport: Clicking on Actor (LMB): AINavCharacter_C (AINavCharacter)
+[2019.04.01-04.19.41:820][635]Cmd: TRANSACTION UNDO
+[2019.04.01-04.19.41:820][635]LogEditorTransaction: Undo Move Actors
+[2019.04.01-04.19.50:840][703]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2019.04.01-04.19.53:290][986]Cmd: TRANSACTION UNDO
+[2019.04.01-04.19.53:290][986]LogEditorTransaction: Undo Move Actors
+[2019.04.01-04.20.09:607][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.20.10:346][ 16]LogEditorViewport: Clicking on Actor (LMB): AINavCharacter_C (AINavCharacter)
+[2019.04.01-04.20.24:841][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.20.53:300][747]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle_Auto30A5BC0474C5DED4BF7337BA8CB862E88.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/Circle_Auto3.umap'
+[2019.04.01-04.20.53:306][747]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.209
+[2019.04.01-04.20.53:306][747]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.209
+[2019.04.01-04.21.47:494][ 37]LogEditorViewport: Clicking on Actor (LMB): AINavCharacter_C (AINavCharacter)
+[2019.04.01-04.21.49:384][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.22.51:239][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.22.51:639][974]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.01-04.22.51:647][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Circle" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.01-04.22.51:845][974]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle20B25E7D4755210DA37755887ACF4D52.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap'
+[2019.04.01-04.22.59:539][883]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AINavController.AINavController
+[2019.04.01-04.23.37:269][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AINavController" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavController.uasset" SILENT=true
+[2019.04.01-04.23.37:293][278]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavController57961CD24000331D6070E78E9569B0AE.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavController.uasset'
+[2019.04.01-04.23.37:999][361]BlueprintLog: New page: Compile AINavController
+[2019.04.01-04.23.47:360][455]LogEditorViewport: Clicking on Actor (LMB): AINavCharacter_C (AINavCharacter)
+[2019.04.01-04.23.50:021][717]LogEditorViewport: Clicking on Actor (LMB): AINavCharacter_C (AINavCharacter)
+[2019.04.01-04.23.56:559][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.23.57:717][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.27.20:672][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.27.34:448][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AINavController" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavController.uasset" SILENT=true
+[2019.04.01-04.27.34:468][380]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavControllerA7A366AC433F873C24C5AAB95F85D1A9.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavController.uasset'
+[2019.04.01-04.27.34:861][425]BlueprintLog: New page: Compile AINavController
+[2019.04.01-04.27.57:539][116]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.01-04.27.57:555][116]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.27.57:555][116]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-04.27.57:556][116]PIE: New page: PIE session: Circle (Mar 31, 2019, 8:27:57 PM)
+[2019.04.01-04.27.57:568][116]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.04.01-04.27.57:572][116]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003111s)
+[2019.04.01-04.27.57:572][116]LogAIModule: Creating AISystem for world Circle
+[2019.04.01-04.27.57:572][116]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2019.04.01-04.27.57:572][116]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.004150s)
+[2019.04.01-04.27.57:655][116]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-04.27.57:692][116]LogInit: FAudioDevice initialized.
+[2019.04.01-04.27.57:800][116]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.01-04.27.57:803][116]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.04.01-00.27.57
+[2019.04.01-04.27.57:804][116]LogWorld: Bringing up level for play took: 0.002456
+[2019.04.01-04.27.57:833][116]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.04.01-04.27.57:835][116]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.293
+[2019.04.01-04.27.57:835][116]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.01:332][534]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.01:333][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.01:370][534]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-04.28.01:370][534]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.01:409][534]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.01:432][536]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.04.01-04.28.03:176][743]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.03:176][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-04.28.03:176][743]PIE: New page: SIE session: Circle (Mar 31, 2019, 8:28:03 PM)
+[2019.04.01-04.28.03:177][743]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.04.01-04.28.03:179][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002894s)
+[2019.04.01-04.28.03:180][743]LogAIModule: Creating AISystem for world Circle
+[2019.04.01-04.28.03:180][743]LogPlayLevel: PIE: World Init took: (0.000538s)
+[2019.04.01-04.28.03:180][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.003598s)
+[2019.04.01-04.28.03:258][743]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-04.28.03:293][743]LogInit: FAudioDevice initialized.
+[2019.04.01-04.28.03:324][743]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.01-04.28.03:326][743]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.04.01-00.28.03
+[2019.04.01-04.28.03:326][743]LogWorld: Bringing up level for play took: 0.001541
+[2019.04.01-04.28.03:338][743]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.01-04.28.03:339][743]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.79
+[2019.04.01-04.28.03:354][743]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.04:751][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.28.08:056][259]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:056][259]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:073][261]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:073][261]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:081][262]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:081][262]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:089][263]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:089][263]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:098][264]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:098][264]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:106][265]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:106][265]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:114][266]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:114][266]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:123][267]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:123][267]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:131][268]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:131][268]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:139][269]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:139][269]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:148][270]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:148][270]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:156][271]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.08:156][271]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.Cube_2 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.04.01-04.28.09:523][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.28.09:607][425]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.09:613][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.09:651][425]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-04.28.09:651][425]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.09:693][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.09:738][426]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.04.01-04.28.12:330][732]LogSlate: Window 'Message Log' being destroyed
+[2019.04.01-04.28.18:931][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Circle" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.01-04.28.19:135][522]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle320378D34EA02E69CFE32EA6E26CA9A8.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap'
+[2019.04.01-04.28.20:066][626]LogTemp: Repeating last play command: Simulate
+[2019.04.01-04.28.20:080][626]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.20:080][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-04.28.20:080][626]PIE: New page: SIE session: Circle (Mar 31, 2019, 8:28:20 PM)
+[2019.04.01-04.28.20:080][626]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.04.01-04.28.20:083][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002933s)
+[2019.04.01-04.28.20:083][626]LogAIModule: Creating AISystem for world Circle
+[2019.04.01-04.28.20:084][626]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.04.01-04.28.20:084][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.003578s)
+[2019.04.01-04.28.20:162][626]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-04.28.20:196][626]LogInit: FAudioDevice initialized.
+[2019.04.01-04.28.20:229][626]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.01-04.28.20:231][626]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.04.01-00.28.20
+[2019.04.01-04.28.20:232][626]LogWorld: Bringing up level for play took: 0.001619
+[2019.04.01-04.28.20:243][626]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.01-04.28.20:244][626]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.116
+[2019.04.01-04.28.20:246][626]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.21:334][756]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.21:335][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.21:369][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-04.28.21:370][756]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.21:413][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.21:436][758]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.04.01-04.28.23:488][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.23:488][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-04.28.23:488][  2]PIE: New page: SIE session: Circle (Mar 31, 2019, 8:28:23 PM)
+[2019.04.01-04.28.23:488][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.04.01-04.28.23:491][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002864s)
+[2019.04.01-04.28.23:492][  2]LogAIModule: Creating AISystem for world Circle
+[2019.04.01-04.28.23:492][  2]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.04.01-04.28.23:492][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.003530s)
+[2019.04.01-04.28.23:571][  2]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-04.28.23:606][  2]LogInit: FAudioDevice initialized.
+[2019.04.01-04.28.23:633][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.01-04.28.23:635][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.04.01-00.28.23
+[2019.04.01-04.28.23:636][  2]LogWorld: Bringing up level for play took: 0.001614
+[2019.04.01-04.28.23:647][  2]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.01-04.28.23:648][  2]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.481
+[2019.04.01-04.28.23:650][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.25:651][239]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.25:652][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.25:685][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-04.28.25:685][239]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.28.25:727][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.28.25:758][242]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.04.01-04.28.26:567][339]LogEditorViewport: Clicking on Actor (LMB): AINavCharacter_C (AINavCharacter)
+[2019.04.01-04.28.34:525][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.30.17:957][198]BlueprintLog: New page: Compile AINavCharacter
+[2019.04.01-04.30.20:774][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AINavCharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset" SILENT=true
+[2019.04.01-04.30.20:830][370]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AINavCharacter94CA0FDF4A50CFE4F12ECDAA0C4D98F4.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AINavCharacter.uasset'
+[2019.04.01-04.30.29:558][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.30.29:558][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-04.30.29:558][975]PIE: New page: SIE session: Circle (Mar 31, 2019, 8:30:29 PM)
+[2019.04.01-04.30.29:558][975]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.04.01-04.30.29:561][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002893s)
+[2019.04.01-04.30.29:562][975]LogAIModule: Creating AISystem for world Circle
+[2019.04.01-04.30.29:562][975]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.04.01-04.30.29:562][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.003544s)
+[2019.04.01-04.30.29:677][975]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-04.30.29:714][975]LogInit: FAudioDevice initialized.
+[2019.04.01-04.30.29:746][975]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.01-04.30.29:748][975]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.04.01-00.30.29
+[2019.04.01-04.30.29:748][975]LogWorld: Bringing up level for play took: 0.001572
+[2019.04.01-04.30.29:760][975]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.01-04.30.29:761][975]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.368
+[2019.04.01-04.30.29:856][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.30.34:731][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.30.34:732][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.30.34:767][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-04.30.34:767][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.30.34:808][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.30.34:831][552]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.04.01-04.32.06:261][535]LogSlate: Window 'AINavCharacter' being destroyed
+[2019.04.01-04.32.06:264][535]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.01-04.32.08:100][746]LogTemp: Repeating last play command: Simulate
+[2019.04.01-04.32.08:106][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.32.08:106][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.01-04.32.08:106][746]PIE: New page: SIE session: Circle (Mar 31, 2019, 8:32:08 PM)
+[2019.04.01-04.32.08:106][746]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.04.01-04.32.08:109][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002911s)
+[2019.04.01-04.32.08:110][746]LogAIModule: Creating AISystem for world Circle
+[2019.04.01-04.32.08:110][746]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.04.01-04.32.08:110][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.003564s)
+[2019.04.01-04.32.08:188][746]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.01-04.32.08:224][746]LogInit: FAudioDevice initialized.
+[2019.04.01-04.32.08:255][746]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.04.01-04.32.08:257][746]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.04.01-00.32.08
+[2019.04.01-04.32.08:258][746]LogWorld: Bringing up level for play took: 0.001554
+[2019.04.01-04.32.08:269][746]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.01-04.32.08:270][746]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.141
+[2019.04.01-04.32.08:272][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.32.12:844][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.32.12:844][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.32.12:880][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.01-04.32.12:880][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.04.01-04.32.12:921][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.01-04.32.12:944][296]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.01-04.32.36:921][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.04.01-04.32.39:426][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.01-04.32.39:848][348]LogSlate: Window 'Source Control Login' being destroyed
+[2019.04.01-04.38.32:832][ 18]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle_Auto4D1DD5B2843F24FF4E42A40B8B34D70A3.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/Circle_Auto4.umap'
+[2019.04.01-04.38.32:841][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.206
+[2019.04.01-04.38.32:841][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.206
+[2019.04.01-04.46.13:796][451]LogSlate: Window 'Save Content' being destroyed
+[2019.04.01-04.46.13:882][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Circle" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.01-04.46.14:080][451]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle74ECE8F14D058195B30F1A886B481866.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap'
+[2019.04.01-04.46.14:102][451]LogFileHelpers: Saving map 'Circle' took 0.220
+[2019.04.01-04.46.14:158][451]LogSlate: Window 'CrowdSimTest - Unreal Editor' being destroyed
+[2019.04.01-04.46.14:341][452]Cmd: QUIT_EDITOR
+[2019.04.01-04.46.14:786][452]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.01-04.46.14:799][452]LogExit: Preparing to exit.
+[2019.04.01-04.46.15:203][452]LogDirectoryWatcher: A directory notification failed for 'C:/Users/SIG Admin/Documents/dzung/crowd-sim/CrowdSimTest/Content/', and we were unable to create a new request.
+[2019.04.01-04.46.15:243][452]LogExit: Editor shut down
+[2019.04.01-04.46.15:244][452]LogExit: Transaction tracking system shut down
+[2019.04.01-04.46.15:486][452]LogExit: Object subsystem successfully closed.
+[2019.04.01-04.46.15:516][452]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.01-04.46.15:520][452]LogD3D11RHI: Shutdown
+[2019.04.01-04.46.15:520][452]LogD3D11RHI: CleanupD3DDevice
+[2019.04.01-04.46.15:523][452]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.01-04.46.15:563][452]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.04.01-04.46.15:563][452]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.04.01-04.46.15:563][452]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.04.01-04.46.15:563][452]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.04.01-04.46.15:563][452]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.04.01-04.46.15:563][452]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.01-04.46.15:572][452]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.01-04.46.15:573][452]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.01-04.46.15:574][452]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.01-04.46.15:574][452]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.01-04.46.15:574][452]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.01-04.46.15:574][452]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.01-04.46.15:574][452]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.01-04.46.15:574][452]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.01-04.46.16:781][452]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.01-04.46.16:782][452]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.01-04.46.16:847][452]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.01-04.46.16:852][452]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.01-04.46.16:852][452]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.01-04.46.16:853][452]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.01-04.46.16:853][452]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.01-04.46.16:853][452]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.01-04.46.16:855][452]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.01-04.46.16:858][452]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.01-04.46.16:940][452]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.01-04.46.16:941][452]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.01-04.46.16:941][452]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.01-04.46.16:941][452]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.01-04.46.16:944][452]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.01-04.46.16:945][452]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.01-04.46.17:046][452]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.01-04.46.17:147][452]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.01-04.46.17:148][452]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.01-04.46.17:148][452]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.01-04.46.17:148][452]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.01-04.46.17:149][452]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.01-04.46.17:149][452]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.01-04.46.17:149][452]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.01-04.46.17:149][452]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.01-04.46.17:149][452]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.01-04.46.17:149][452]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.01-04.46.17:149][452]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.01-04.46.17:151][452]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.01-04.46.17:157][452]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.01-04.46.17:158][452]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.01-04.46.17:158][452]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.01-04.46.17:158][452]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.01-04.46.17:158][452]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.01-04.46.17:159][452]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.01-04.46.17:160][452]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.01-04.46.17:166][452]LogDerivedDataCache: Shutdown
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.01-04.46.17:166][452]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.01-04.46.17:167][452]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.01-04.46.17:168][452]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.01-04.46.17:168][452]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.01-04.46.17:168][452]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.01-04.46.17:168][452]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.01-04.46.17:169][452]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.01-04.46.17:170][452]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.01-04.46.17:170][452]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.01-04.46.17:172][452]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.01-04.46.17:172][452]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.01-04.46.17:181][452]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.01-04.46.17:181][452]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.01-04.46.17:181][452]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.01-04.46.17:181][452]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.01-04.46.17:181][452]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.01-04.46.17:181][452]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.01-04.46.17:181][452]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.01-04.46.17:182][452]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.01-04.46.17:182][452]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.01-04.46.17:198][452]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.01-04.46.17:198][452]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.01-04.46.17:198][452]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B705CEF-4139-6BA8-D8D6-8881F2A92195%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=cb8fdafe4f8d1ca9a11332a3d52fabd0%7Cbd33f5d4755644148abac4f4a57bfbc5%7C8400279f-8989-4c41-bacc-8238bbfac349&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.01-04.46.17:221][452]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.01-04.46.17:223][452]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.01-04.46.17:223][452]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.01-04.46.17:224][452]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.01-04.46.17:225][452]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.01-04.46.17:225][452]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.01-04.46.17:225][452]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.01-04.46.17:225][452]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.01-04.46.17:225][452]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.01-04.46.17:225][452]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.01-04.46.17:241][452]LogExit: Exiting.
+[2019.04.01-04.46.17:280][452]Log file closed, 04/01/19 00:46:17
