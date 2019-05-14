@@ -591,3 +591,828 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.14-00.29.49:733][263]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
 [2019.05.14-00.29.49:769][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2019.05.14-00.29.49:799][266]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.14-00.41.15:236][873]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/UserInterface.UserInterface
+[2019.05.14-00.41.15:773][873]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.05.14-00.41.16:624][873]LogSlate: Took 0.003865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.14-00.44.59:489][934]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-00.45.10:704][ 57]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-00.45.15:200][502]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-00.45.24:231][415]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-00.45.31:647][151]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-00.46.25:216][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/UserInterface" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/UserInterface.uasset" SILENT=true
+[2019.05.14-00.46.25:231][915]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/UserInterfaceEBAE5FA64FE9645C2818428434E0F18C.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/UserInterface.uasset'
+[2019.05.14-00.46.27:895][216]LogSlate: Window 'UserInterface' being destroyed
+[2019.05.14-00.46.27:898][216]LogSlate: Window 'UserInterface' being destroyed
+[2019.05.14-00.46.29:253][372]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/UserInterface.UserInterface
+[2019.05.14-00.46.36:131][ 82]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-00.48.15:012][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.043
+[2019.05.14-00.48.15:013][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/UserInterface] ([1] browsable assets)...
+[2019.05.14-00.48.15:013][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/UserInterface]
+[2019.05.14-00.48.15:049][492]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/UserInterface_Auto13C812CF44FDD4D84E32ED7A6A3B4A3D1.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/UserInterface_Auto1.uasset'
+[2019.05.14-00.48.15:051][492]LogFileHelpers: Auto-saving content packages took 0.038
+[2019.05.14-00.49.33:473][901]LogTemp: Repeating last play command: Simulate
+[2019.05.14-00.49.33:494][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.33:494][901]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.14-00.49.33:495][901]LogPlayLevel: [PlayLevel] Compiling UserInterface before play...
+[2019.05.14-00.49.33:655][901]LogPlayLevel: PlayLevel: Blueprint regeneration took 161 ms (1 blueprints)
+[2019.05.14-00.49.33:656][901]PIE: New page: SIE session: Circle (May 13, 2019, 4:49:33 PM)
+[2019.05.14-00.49.33:656][901]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-00.49.33:660][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004639s)
+[2019.05.14-00.49.33:661][901]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-00.49.33:661][901]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2019.05.14-00.49.33:661][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005345s)
+[2019.05.14-00.49.33:743][901]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-00.49.33:781][901]LogInit: FAudioDevice initialized.
+[2019.05.14-00.49.33:809][901]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-00.49.33:810][901]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-20.49.33
+[2019.05.14-00.49.33:810][901]LogWorld: Bringing up level for play took: 0.000882
+[2019.05.14-00.49.33:822][901]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-00.49.33:834][901]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.702
+[2019.05.14-00.49.33:836][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.35:346][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.35:347][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.49.35:378][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-00.49.35:378][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.35:420][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.49.35:451][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.05.14-00.49.43:118][984]LogTemp: Repeating last play command: Simulate
+[2019.05.14-00.49.43:137][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.43:137][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-00.49.43:137][984]PIE: New page: SIE session: Circle (May 13, 2019, 4:49:43 PM)
+[2019.05.14-00.49.43:137][984]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-00.49.43:142][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004416s)
+[2019.05.14-00.49.43:142][984]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-00.49.43:142][984]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2019.05.14-00.49.43:142][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005069s)
+[2019.05.14-00.49.43:221][984]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-00.49.43:258][984]LogInit: FAudioDevice initialized.
+[2019.05.14-00.49.43:290][984]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-00.49.43:292][984]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-20.49.43
+[2019.05.14-00.49.43:292][984]LogWorld: Bringing up level for play took: 0.000904
+[2019.05.14-00.49.43:304][984]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-00.49.43:316][984]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.183
+[2019.05.14-00.49.43:318][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.44:907][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.44:908][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.49.44:943][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-00.49.44:943][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.44:982][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.49.45:013][177]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.14-00.49.48:640][611]BlueprintLog: New page: Compile UserInterface
+[2019.05.14-00.49.51:231][901]LogTemp: Repeating last play command: Simulate
+[2019.05.14-00.49.51:250][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.51:250][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-00.49.51:250][901]PIE: New page: SIE session: Circle (May 13, 2019, 4:49:51 PM)
+[2019.05.14-00.49.51:250][901]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-00.49.51:255][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004471s)
+[2019.05.14-00.49.51:255][901]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-00.49.51:255][901]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2019.05.14-00.49.51:255][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005104s)
+[2019.05.14-00.49.51:335][901]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-00.49.51:371][901]LogInit: FAudioDevice initialized.
+[2019.05.14-00.49.51:398][901]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-00.49.51:400][901]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-20.49.51
+[2019.05.14-00.49.51:400][901]LogWorld: Bringing up level for play took: 0.000841
+[2019.05.14-00.49.51:412][901]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-00.49.51:425][901]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.293
+[2019.05.14-00.49.51:428][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.53:025][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.53:026][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.49.53:062][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-00.49.53:062][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.49.53:103][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.49.53:126][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.14-00.50.01:660][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.50.03:095][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.50.04:979][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.50.07:031][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.50.07:663][605]LogEditorViewport: Clicking on Actor (LMB): CircleSprawner_C (CircleSprawner)
+[2019.05.14-00.50.08:806][738]Cmd: DELETE
+[2019.05.14-00.50.08:806][738]Cmd: ACTOR DELETE
+[2019.05.14-00.50.08:811][738]LogEditorActor: Deleted Actor: CircleSprawner_C
+[2019.05.14-00.50.08:846][738]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.05.14-00.50.12:649][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-00.50.12:840][216]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/CircleSprawner.CircleSprawner
+[2019.05.14-00.50.13:366][217]LogSlate: Took 0.005860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.14-00.53.06:560][545]LogEditorTransaction: Undo Rename Function
+[2019.05.14-00.53.07:245][609]LogEditorTransaction: Undo Create Pin Link
+[2019.05.14-00.53.09:629][863]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.09:911][884]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.10:157][901]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.10:379][915]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.10:609][930]LogEditorTransaction: Undo Paste clipboard contents
+[2019.05.14-00.53.10:828][943]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.20:052][971]BlueprintLog: New page: Compile CircleSprawner
+[2019.05.14-00.53.33:727][560]LogTemp: Repeating last play command: Simulate
+[2019.05.14-00.53.33:749][560]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.53.33:749][560]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.14-00.53.33:751][560]LogPlayLevel: [PlayLevel] Compiling UserInterface before play...
+[2019.05.14-00.53.33:915][560]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2019.05.14-00.53.33:915][560]PIE: New page: SIE session: Circle (May 13, 2019, 4:53:33 PM)
+[2019.05.14-00.53.33:915][560]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-00.53.33:920][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004519s)
+[2019.05.14-00.53.33:920][560]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-00.53.33:920][560]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2019.05.14-00.53.33:920][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005217s)
+[2019.05.14-00.53.34:001][560]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-00.53.34:038][560]LogInit: FAudioDevice initialized.
+[2019.05.14-00.53.34:072][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-00.53.34:074][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-20.53.34
+[2019.05.14-00.53.34:074][560]LogWorld: Bringing up level for play took: 0.000927
+[2019.05.14-00.53.34:086][560]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-00.53.34:087][560]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.955
+[2019.05.14-00.53.34:089][560]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.53.34:878][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.53.34:878][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.53.34:911][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-00.53.34:911][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.53.34:953][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.53.34:985][644]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.14-00.53.37:002][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.53.37:530][942]Cmd: TRANSACTION UNDO
+[2019.05.14-00.53.37:530][942]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.14-00.53.37:913][987]Cmd: TRANSACTION UNDO
+[2019.05.14-00.53.37:913][987]LogEditorTransaction: Undo Delete current selection
+[2019.05.14-00.53.38:498][ 55]Cmd: TRANSACTION UNDO
+[2019.05.14-00.53.38:498][ 55]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.38:770][ 86]Cmd: TRANSACTION UNDO
+[2019.05.14-00.53.38:770][ 86]LogEditorTransaction: Undo Add Node
+[2019.05.14-00.53.39:794][208]Cmd: TRANSACTION UNDO
+[2019.05.14-00.53.39:794][208]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.41:390][398]Cmd: TRANSACTION UNDO
+[2019.05.14-00.53.41:390][398]LogEditorTransaction: Undo Move Node
+[2019.05.14-00.53.45:328][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-00.53.55:675][962]BlueprintLog: New page: Compile CircleSprawner
+[2019.05.14-00.54.04:376][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-00.54.09:672][382]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.14-00.54.17:240][289]LogTemp: Repeating last play command: Simulate
+[2019.05.14-00.54.17:266][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.17:266][289]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.14-00.54.17:267][289]LogPlayLevel: [PlayLevel] Compiling UserInterface before play...
+[2019.05.14-00.54.17:437][289]LogPlayLevel: PlayLevel: Blueprint regeneration took 171 ms (1 blueprints)
+[2019.05.14-00.54.17:438][289]PIE: New page: SIE session: Circle (May 13, 2019, 4:54:17 PM)
+[2019.05.14-00.54.17:438][289]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-00.54.17:442][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004424s)
+[2019.05.14-00.54.17:443][289]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-00.54.17:443][289]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2019.05.14-00.54.17:443][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005160s)
+[2019.05.14-00.54.17:525][289]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-00.54.17:562][289]LogInit: FAudioDevice initialized.
+[2019.05.14-00.54.17:596][289]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-00.54.17:597][289]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-20.54.17
+[2019.05.14-00.54.17:597][289]LogWorld: Bringing up level for play took: 0.000834
+[2019.05.14-00.54.17:609][289]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-00.54.17:621][289]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.489
+[2019.05.14-00.54.17:629][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.18:946][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.18:947][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.54.18:983][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-00.54.18:984][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.19:026][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.54.19:048][434]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.14-00.54.20:185][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.54.20:634][617]LogEditorViewport: Clicking on Actor (LMB): CircleSprawner_C (CircleSprawner)
+[2019.05.14-00.54.21:504][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-00.54.24:237][ 44]LogTemp: Repeating last play command: Simulate
+[2019.05.14-00.54.24:256][ 44]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.24:256][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-00.54.24:256][ 44]PIE: New page: SIE session: Circle (May 13, 2019, 4:54:24 PM)
+[2019.05.14-00.54.24:256][ 44]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-00.54.24:261][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004460s)
+[2019.05.14-00.54.24:261][ 44]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-00.54.24:261][ 44]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2019.05.14-00.54.24:262][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005108s)
+[2019.05.14-00.54.24:341][ 44]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-00.54.24:378][ 44]LogInit: FAudioDevice initialized.
+[2019.05.14-00.54.24:409][ 44]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-00.54.24:410][ 44]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-20.54.24
+[2019.05.14-00.54.24:410][ 44]LogWorld: Bringing up level for play took: 0.000826
+[2019.05.14-00.54.24:422][ 44]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-00.54.24:434][ 44]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.699
+[2019.05.14-00.54.24:442][ 44]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.27:157][369]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.27:158][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.54.27:195][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-00.54.27:195][369]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.27:236][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.54.27:259][371]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.05.14-00.54.52:291][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-00.54.52:407][351]LogTemp: Repeating last play command: Simulate
+[2019.05.14-00.54.52:427][351]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.52:427][351]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.14-00.54.52:428][351]LogPlayLevel: [PlayLevel] Compiling UserInterface before play...
+[2019.05.14-00.54.52:599][351]LogPlayLevel: PlayLevel: Blueprint regeneration took 173 ms (1 blueprints)
+[2019.05.14-00.54.52:599][351]PIE: New page: SIE session: Circle (May 13, 2019, 4:54:52 PM)
+[2019.05.14-00.54.52:599][351]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-00.54.52:604][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004958s)
+[2019.05.14-00.54.52:605][351]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-00.54.52:605][351]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2019.05.14-00.54.52:605][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005638s)
+[2019.05.14-00.54.52:714][351]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-00.54.52:751][351]LogInit: FAudioDevice initialized.
+[2019.05.14-00.54.52:781][351]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-00.54.52:783][351]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-20.54.52
+[2019.05.14-00.54.52:784][351]LogWorld: Bringing up level for play took: 0.001817
+[2019.05.14-00.54.52:797][351]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-00.54.52:809][351]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.323
+[2019.05.14-00.54.52:890][351]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.54:491][526]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.54:491][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.54.54:536][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-00.54.54:536][526]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-00.54.54:579][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-00.54.54:594][527]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.05.14-00.54.55:799][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.54.56:568][756]LogEditorViewport: Clicking on Actor (LMB): CircleSprawner_C (CircleSprawner)
+[2019.05.14-00.54.58:054][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.54.58:702][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.54.59:145][ 51]LogEditorViewport: Clicking on Actor (LMB): DetourCharacter_C (DetourCharacter)
+[2019.05.14-00.55.14:029][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-00.55.15:032][914]LogEditorViewport: Clicking on Actor (LMB): DetourCharacter_C (DetourCharacter)
+[2019.05.14-00.55.16:239][ 45]Cmd: DELETE
+[2019.05.14-00.55.16:239][ 45]Cmd: ACTOR DELETE
+[2019.05.14-00.55.16:243][ 45]LogEditorActor: Deleted Actor: DetourCharacter_C
+[2019.05.14-00.55.16:315][ 45]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2019.05.14-00.55.18:151][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-00.55.18:365][290]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/DetourCharacter.DetourCharacter
+[2019.05.14-00.57.26:140][508]BlueprintLog: New page: Compile DetourCharacter
+[2019.05.14-00.57.27:856][670]BlueprintLog: New page: Compile CircleSprawner
+[2019.05.14-00.57.31:563][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/CircleSprawner" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CircleSprawner.uasset" SILENT=true
+[2019.05.14-00.57.31:624][ 51]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/CircleSprawnerC80C027B4C514898A189B58BB2F66029.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CircleSprawner.uasset'
+[2019.05.14-00.57.33:207][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/DetourCharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/DetourCharacter.uasset" SILENT=true
+[2019.05.14-00.57.33:277][221]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/DetourCharacter70FC53814A087D1BFEC2EB99B5F7BDC2.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/DetourCharacter.uasset'
+[2019.05.14-00.57.33:765][278]BlueprintLog: New page: Compile DetourCharacter
+[2019.05.14-01.00.07:199][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/UserInterface" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/UserInterface.uasset" SILENT=true
+[2019.05.14-01.00.07:232][685]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/UserInterface08E83A88473674C8E1F04AA397FB2610.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/UserInterface.uasset'
+[2019.05.14-01.00.07:664][703]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle_Auto28BD1710347E78E4744974BB0AB47EC43.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/Circle_Auto2.umap'
+[2019.05.14-01.00.07:671][703]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.228
+[2019.05.14-01.00.07:671][703]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2019.05.14-01.03.20:538][742]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AICharacter.AICharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.05.14-01.03.20:538][742]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/AICharacter.SKEL_AICharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2019.05.14-01.03.20:585][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AICharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset" SILENT=true
+[2019.05.14-01.03.20:637][742]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacterA716440346EF7E488DD0D09B730C7049.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset'
+[2019.05.14-01.03.20:817][742]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/ThirdPersonCharacterD1DCC281425C5FB515D5BCAA3CE02C76.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.14-01.03.22:688][932]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AICharacter.AICharacter
+[2019.05.14-01.03.36:016][105]BlueprintLog: New page: Compile AICharacter
+[2019.05.14-01.03.37:016][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AICharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset" SILENT=true
+[2019.05.14-01.03.37:063][188]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacter2B23CFA7429B90BC58BB3AA07898307B.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset'
+[2019.05.14-01.03.50:691][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AICharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset" SILENT=true
+[2019.05.14-01.03.50:734][763]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacter8D144F6B403096FF2925668B4BFE8A09.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset'
+[2019.05.14-01.03.51:785][888]BlueprintLog: New page: Compile AICharacter
+[2019.05.14-01.04.04:577][379]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.05.14-01.04.04:625][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-01.04.06:456][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.04.10:407][ 62]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.04.11:205][147]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.14-01.04.14:046][481]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.05.14-01.04.14:091][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-01.04.14:457][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.04.28:265][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.04.28:885][234]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.04.36:441][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.04.36:549][142]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.04.36:573][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.04.36:574][142]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.14-01.04.36:575][142]LogPlayLevel: [PlayLevel] Compiling UserInterface before play...
+[2019.05.14-01.04.36:748][142]LogPlayLevel: PlayLevel: Blueprint regeneration took 174 ms (1 blueprints)
+[2019.05.14-01.04.36:748][142]PIE: New page: SIE session: Circle (May 13, 2019, 5:04:36 PM)
+[2019.05.14-01.04.36:748][142]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.04.36:753][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005019s)
+[2019.05.14-01.04.36:753][142]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.04.36:754][142]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2019.05.14-01.04.36:754][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005713s)
+[2019.05.14-01.04.36:840][142]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.04.36:879][142]LogInit: FAudioDevice initialized.
+[2019.05.14-01.04.36:912][142]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.04.36:914][142]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.04.36
+[2019.05.14-01.04.36:915][142]LogWorld: Bringing up level for play took: 0.001786
+[2019.05.14-01.04.36:926][142]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.04.36:938][142]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.194
+[2019.05.14-01.04.36:987][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.04.38:329][291]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.04.38:329][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.04.38:370][291]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.04.38:370][291]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.04.38:414][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.04.38:430][292]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.14-01.05.23:507][677]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2019.05.14-01.05.24:566][802]Cmd: DELETE
+[2019.05.14-01.05.24:566][802]Cmd: ACTOR DELETE
+[2019.05.14-01.05.24:569][802]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2019.05.14-01.05.24:611][802]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.05.14-01.05.25:839][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.05.36:909][265]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.05.14-01.05.38:416][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-01.05.46:164][364]Cmd: TRANSACTION UNDO
+[2019.05.14-01.05.46:164][364]LogEditorTransaction: Undo Move Actors
+[2019.05.14-01.05.48:916][679]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2019.05.14-01.05.48:964][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-01.05.50:393][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.05.59:274][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.05.59:445][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-01.05.59:451][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Circle" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.14-01.05.59:680][913]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle1493652141E2C5B70B5C2AB31CEC84FF.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap'
+[2019.05.14-01.06.03:914][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.06.19:214][245]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.AICharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.SKEL_AICharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.AICharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.AICharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.AICharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.SKEL_AICharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.SKEL_AICharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:689][579]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.SKEL_AICharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AICharacter.PackageMetaData'
+[2019.05.14-01.07.29:743][579]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacter539F11CB40C9FD4213EA42ABF999B967.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.uasset'
+[2019.05.14-01.07.29:888][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AICharacter" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset" SILENT=true
+[2019.05.14-01.07.29:916][579]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacterF80A0EFE4A1B5A20B7235C99F62926C2.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/AICharacter.uasset'
+[2019.05.14-01.07.33:359][902]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.AIControllerNatural:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.07.33:359][902]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.SKEL_AIControllerNatural_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.07.33:359][902]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.SKEL_AIControllerNatural_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.07.33:359][902]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.AIControllerNatural_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.07.33:359][902]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.AIControllerNatural:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.07.33:359][902]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.AIControllerNatural:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.07.33:387][902]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AIControllerNaturalC994F4C84BB6402D1F2E82BCC19E014F.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.uasset'
+[2019.05.14-01.08.24:252][325]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.14-01.08.56:005][ 32]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.AIController1_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.08.56:005][ 32]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.SKEL_AIController1_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.08.56:005][ 32]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.AIController1:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.08.56:005][ 32]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.AIController1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.08.56:005][ 32]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.AIController1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.PackageMetaData'
+[2019.05.14-01.08.56:031][ 32]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AIController125729F9D4EE9EA446591789C98A92617.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.uasset'
+[2019.05.14-01.08.56:727][ 32]SourceControl: rm 'CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIControllerNatural.uasset'
+[2019.05.14-01.10.18:738][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/Circle" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.14-01.10.18:974][857]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle2D8C21F94CB77B371968AF90043FE73A.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Maps/Circle.umap'
+[2019.05.14-01.10.23:313][354]LogAssetEditorManager: Opening Asset editor for BlackboardData /Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_BlackBoard.AI_BlackBoard
+[2019.05.14-01.10.28:778][999]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.14-01.10.58:353][536]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement.RandomMovement
+[2019.05.14-01.11.05:131][276]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.14-01.11.09:822][829]BlueprintLog: New page: Compile AICharacter
+[2019.05.14-01.11.10:725][888]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacterCA4D1BE242C451F2FAF33E896E10D7AD.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.uasset'
+[2019.05.14-01.11.12:538][ 93]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AI_BlackBoard3DA2D1B14352275531E9AEBC57C8C355.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_BlackBoard.uasset'
+[2019.05.14-01.11.15:508][431]BlueprintLog: New page: Compile RandomMovement
+[2019.05.14-01.11.16:299][508]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/RandomMovementB4FB7DD048020C80FDEBFD843CFB9FDF.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement.uasset'
+[2019.05.14-01.11.16:509][514]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement.
+[2019.05.14-01.11.18:638][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/UserInterface" FILE="../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/UserInterface.uasset" SILENT=true
+[2019.05.14-01.11.18:671][757]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/UserInterfaceF15B56D2452D42E4E11C8593EADCD9AA.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/UserInterface.uasset'
+[2019.05.14-01.14.32:146][944]LogSlate: Took 0.005446 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.14-01.16.34:062][440]LogEditorTransaction: Undo Delete current selection
+[2019.05.14-01.20.18:891][329]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle_Auto328BE497A4AE3E1C2B35D67A75F886EA4.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/Circle_Auto3.umap'
+[2019.05.14-01.20.18:894][329]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.239
+[2019.05.14-01.20.18:894][329]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.239
+[2019.05.14-01.20.18:896][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2019.05.14-01.20.18:896][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2019.05.14-01.20.18:926][329]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/ThirdPersonGameMode_Auto3D31FA5504022819C7E14E3BAAF071D58.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto3.uasset'
+[2019.05.14-01.20.18:928][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_Behavior] ([1] browsable assets)...
+[2019.05.14-01.20.18:928][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_Behavior]
+[2019.05.14-01.20.18:933][329]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AI_Behavior_Auto3A45E32F14A5B96D673BC8B8AE688D506.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_Behavior_Auto3.uasset'
+[2019.05.14-01.20.18:935][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement] ([1] browsable assets)...
+[2019.05.14-01.20.18:935][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement]
+[2019.05.14-01.20.18:965][329]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/RandomMovement_Auto36399138E4A858D39462EBEBF960125EF.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement_Auto3.uasset'
+[2019.05.14-01.20.18:966][329]LogFileHelpers: Auto-saving content packages took 0.070
+[2019.05.14-01.23.38:214][175]BlueprintLog: New page: Compile RandomMovement
+[2019.05.14-01.23.38:989][247]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/RandomMovementD1ED88604DE7657D8F058FAB06F5F18A.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement.uasset'
+[2019.05.14-01.23.51:973][797]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_Behavior.AI_Behavior
+[2019.05.14-01.24.46:319][282]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/NewBehaviorTree.NewBehaviorTree
+[2019.05.14-01.24.55:131][157]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.14-01.27.10:622][812]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.05.14-01.27.18:275][718]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement1.
+[2019.05.14-01.27.39:733][115]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.14-01.29.44:453][845]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AI_BehaviorC0B5581748E7749A30930A81E1F2C9D5.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_Behavior.uasset'
+[2019.05.14-01.29.51:018][612]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.AIController1
+[2019.05.14-01.29.51:377][613]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.14-01.30.10:649][852]BlueprintLog: New page: Compile AIController1
+[2019.05.14-01.30.11:309][893]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AIController1AE7A7C3041B647A333E268B19B3A2CF3.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.uasset'
+[2019.05.14-01.30.28:765][947]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacterCEAD0F21465D9F23A74EC094A9FA046D.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.uasset'
+[2019.05.14-01.30.29:569][ 41]BlueprintLog: New page: Compile AICharacter
+[2019.05.14-01.30.30:348][ 92]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacterD64042CC4B7FA510B36499AAE0F09DA9.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.uasset'
+[2019.05.14-01.32.14:619][244]BlueprintLog: New page: Compile AICharacter
+[2019.05.14-01.32.15:283][280]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacter8C890F4E45EE0623AF4B1B853715C7A5.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.uasset'
+[2019.05.14-01.33.30:617][194]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle_Auto4812C45E345E3225F21F103B71D90B4B9.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/Circle_Auto4.umap'
+[2019.05.14-01.33.30:620][194]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.235
+[2019.05.14-01.33.30:620][194]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2019.05.14-01.33.30:622][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement] ([1] browsable assets)...
+[2019.05.14-01.33.30:622][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement]
+[2019.05.14-01.33.30:660][194]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/RandomMovement_Auto4EB24F8A74C9952FCB22FCDBF87960B7F.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement_Auto4.uasset'
+[2019.05.14-01.33.30:662][194]LogFileHelpers: Auto-saving content packages took 0.040
+[2019.05.14-01.37.40:674][ 26]LogEditorTransaction: Undo Delete current selection
+[2019.05.14-01.39.35:385][500]BlueprintLog: New page: Compile RandomMovement
+[2019.05.14-01.39.37:028][650]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/RandomMovement8F5DDB764B46DDF580228DA9466B3973.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement.uasset'
+[2019.05.14-01.40.34:799][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.35:764][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.38:176][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.40:497][198]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint4)
+[2019.05.14-01.40.45:110][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.46:820][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.47:424][ 12]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.40.48:246][ 99]Cmd: DELETE
+[2019.05.14-01.40.48:246][ 99]Cmd: ACTOR DELETE
+[2019.05.14-01.40.48:249][ 99]LogEditorActor: Deleted Actor: AICharacter_C
+[2019.05.14-01.40.48:291][ 99]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.05.14-01.40.49:148][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.49:760][267]LogEditorViewport: Clicking on Actor (LMB): CircleSprawner_C (CircleSprawner)
+[2019.05.14-01.40.53:039][654]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint4)
+[2019.05.14-01.40.55:136][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.55:646][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.40.56:056][  1]LogEditorViewport: Clicking on Actor (LMB): CircleSprawner_C (CircleSprawner)
+[2019.05.14-01.40.58:737][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.41.03:250][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.41.05:591][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.41.13:523][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.41.13:614][ 50]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.41.13:640][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.13:646][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.41.13:646][ 50]PIE: New page: SIE session: Circle (May 13, 2019, 5:41:13 PM)
+[2019.05.14-01.41.13:646][ 50]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.41.13:651][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004967s)
+[2019.05.14-01.41.13:652][ 50]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.41.13:652][ 50]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2019.05.14-01.41.13:652][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005753s)
+[2019.05.14-01.41.13:736][ 50]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.41.13:775][ 50]LogInit: FAudioDevice initialized.
+[2019.05.14-01.41.13:806][ 50]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.41.13:808][ 50]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.41.13
+[2019.05.14-01.41.13:809][ 50]LogWorld: Bringing up level for play took: 0.001789
+[2019.05.14-01.41.13:821][ 50]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.41.13:834][ 50]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.701
+[2019.05.14-01.41.13:884][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.16:737][360]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.41.20:947][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.41.21:024][827]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.21:029][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.41.21:066][827]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.41.21:067][827]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.21:109][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.41.21:124][828]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.05.14-01.41.37:604][805]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.41.38:527][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.41.38:618][916]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.41.38:639][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.38:645][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.41.38:645][916]PIE: New page: SIE session: Circle (May 13, 2019, 5:41:38 PM)
+[2019.05.14-01.41.38:645][916]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.41.38:650][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004769s)
+[2019.05.14-01.41.38:651][916]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.41.38:651][916]LogPlayLevel: PIE: World Init took: (0.000564s)
+[2019.05.14-01.41.38:651][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005476s)
+[2019.05.14-01.41.38:734][916]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.41.38:772][916]LogInit: FAudioDevice initialized.
+[2019.05.14-01.41.38:799][916]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.41.38:801][916]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.41.38
+[2019.05.14-01.41.38:802][916]LogWorld: Bringing up level for play took: 0.001828
+[2019.05.14-01.41.38:814][916]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.41.38:824][916]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.308
+[2019.05.14-01.41.38:870][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.40:736][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.40:741][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.41.40:778][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.41.40:779][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.40:820][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.41.40:835][140]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.05.14-01.41.41:929][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.41.42:388][318]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.41.43:827][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.41.43:928][490]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.41.43:949][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.43:955][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.41.43:955][490]PIE: New page: SIE session: Circle (May 13, 2019, 5:41:43 PM)
+[2019.05.14-01.41.43:955][490]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.41.43:960][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004650s)
+[2019.05.14-01.41.43:960][490]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.41.43:960][490]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2019.05.14-01.41.43:960][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005295s)
+[2019.05.14-01.41.44:041][490]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.41.44:078][490]LogInit: FAudioDevice initialized.
+[2019.05.14-01.41.44:112][490]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.41.44:114][490]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.41.44
+[2019.05.14-01.41.44:115][490]LogWorld: Bringing up level for play took: 0.001610
+[2019.05.14-01.41.44:126][490]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.41.44:137][490]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 1.004
+[2019.05.14-01.41.44:183][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.45:650][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.45:655][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.41.45:692][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.41.45:692][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.41.45:736][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.41.45:751][666]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.05.14-01.41.49:651][115]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacter0B33DD5F4C9D252F56CB74BE26CC4FA3.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.uasset'
+[2019.05.14-01.42.35:274][565]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AI_Behavior198435C74673F4475F2ED6BB7AAFC8DA.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AI_Behavior.uasset'
+[2019.05.14-01.43.42:052][534]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Circle_Auto56A8E24B8417CDA0F03DBE6BA6851156A.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/Autosaves/Game/ThirdPersonBP/Maps/Circle_Auto5.umap'
+[2019.05.14-01.43.42:056][534]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/Circle' took 0.235
+[2019.05.14-01.43.42:056][534]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.235
+[2019.05.14-01.45.51:480][ 48]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.14-01.45.53:775][313]BlueprintLog: New page: Compile AICharacter
+[2019.05.14-01.45.54:749][369]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AICharacter1F39B96045D4579EED723D85AF45B060.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AICharacter.uasset'
+[2019.05.14-01.45.57:625][710]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.45.57:652][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.45.57:657][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.45.57:658][710]PIE: New page: SIE session: Circle (May 13, 2019, 5:45:57 PM)
+[2019.05.14-01.45.57:658][710]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.45.57:663][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004913s)
+[2019.05.14-01.45.57:663][710]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.45.57:663][710]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2019.05.14-01.45.57:663][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005601s)
+[2019.05.14-01.45.57:744][710]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.45.57:782][710]LogInit: FAudioDevice initialized.
+[2019.05.14-01.45.57:813][710]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.45.57:815][710]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.45.57
+[2019.05.14-01.45.57:815][710]LogWorld: Bringing up level for play took: 0.001660
+[2019.05.14-01.45.57:827][710]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.45.57:839][710]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 0.707
+[2019.05.14-01.45.57:842][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.02:838][293]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.02:843][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.46.02:882][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.46.02:882][293]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.02:928][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.46.02:943][294]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.14-01.46.03:771][393]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.46.04:575][476]Cmd: DELETE
+[2019.05.14-01.46.04:575][476]Cmd: ACTOR DELETE
+[2019.05.14-01.46.04:577][476]LogEditorActor: Deleted Actor: AICharacter_C
+[2019.05.14-01.46.04:615][476]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.05.14-01.46.05:941][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.46.07:930][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.46.08:030][874]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.46.08:053][874]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.08:058][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.46.08:058][874]PIE: New page: SIE session: Circle (May 13, 2019, 5:46:08 PM)
+[2019.05.14-01.46.08:059][874]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.46.08:063][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004653s)
+[2019.05.14-01.46.08:064][874]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.46.08:064][874]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2019.05.14-01.46.08:064][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005302s)
+[2019.05.14-01.46.08:145][874]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.46.08:181][874]LogInit: FAudioDevice initialized.
+[2019.05.14-01.46.08:212][874]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.46.08:214][874]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.46.08
+[2019.05.14-01.46.08:215][874]LogWorld: Bringing up level for play took: 0.001771
+[2019.05.14-01.46.08:226][874]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.46.08:237][874]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 1.104
+[2019.05.14-01.46.08:284][874]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.09:508][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.09:513][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.46.09:553][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.46.09:553][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.09:598][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.46.09:613][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.05.14-01.46.17:492][753]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.46.22:323][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.14-01.46.42:642][754]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.14-01.46.50:720][716]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.46.50:742][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.50:748][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.46.50:749][716]PIE: New page: SIE session: Circle (May 13, 2019, 5:46:50 PM)
+[2019.05.14-01.46.50:749][716]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.46.50:754][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004800s)
+[2019.05.14-01.46.50:754][716]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.46.50:754][716]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2019.05.14-01.46.50:754][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005518s)
+[2019.05.14-01.46.50:837][716]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.46.50:874][716]LogInit: FAudioDevice initialized.
+[2019.05.14-01.46.50:905][716]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.46.50:907][716]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.46.50
+[2019.05.14-01.46.50:908][716]LogWorld: Bringing up level for play took: 0.001807
+[2019.05.14-01.46.50:919][716]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.46.50:930][716]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.202
+[2019.05.14-01.46.50:978][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.51:979][835]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.51:984][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.46.52:020][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.46.52:020][835]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.46.52:059][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.46.52:082][837]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.14-01.50.12:700][876]BlueprintLog: New page: Compile AIController1
+[2019.05.14-01.50.13:780][966]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AIController19EB6FB184195083D666B44A505657DEE.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.uasset'
+[2019.05.14-01.50.15:704][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.50.16:664][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.50.16:747][312]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.50.16:768][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.16:774][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.50.16:774][312]PIE: New page: SIE session: Circle (May 13, 2019, 5:50:16 PM)
+[2019.05.14-01.50.16:774][312]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.50.16:779][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004742s)
+[2019.05.14-01.50.16:780][312]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.50.16:780][312]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2019.05.14-01.50.16:780][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005464s)
+[2019.05.14-01.50.16:862][312]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.50.16:898][312]LogInit: FAudioDevice initialized.
+[2019.05.14-01.50.16:932][312]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.50.16:934][312]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.50.16
+[2019.05.14-01.50.16:935][312]LogWorld: Bringing up level for play took: 0.001872
+[2019.05.14-01.50.16:947][312]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.50.16:959][312]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.174
+[2019.05.14-01.50.16:980][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.22:303][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.22:308][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.50.22:347][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.50.22:347][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.22:391][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.50.22:408][933]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.05.14-01.50.22:977][  1]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.50.23:557][ 59]Cmd: DELETE
+[2019.05.14-01.50.23:557][ 59]Cmd: ACTOR DELETE
+[2019.05.14-01.50.23:559][ 59]LogEditorActor: Deleted Actor: AICharacter_C
+[2019.05.14-01.50.23:600][ 59]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.05.14-01.50.24:831][206]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.50.26:606][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.50.26:689][417]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.50.26:713][417]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.26:719][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.14-01.50.26:719][417]PIE: New page: SIE session: Circle (May 13, 2019, 5:50:26 PM)
+[2019.05.14-01.50.26:719][417]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.50.26:724][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004750s)
+[2019.05.14-01.50.26:724][417]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.50.26:724][417]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2019.05.14-01.50.26:724][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.005395s)
+[2019.05.14-01.50.26:808][417]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.50.26:843][417]LogInit: FAudioDevice initialized.
+[2019.05.14-01.50.26:874][417]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.50.26:876][417]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.50.26
+[2019.05.14-01.50.26:877][417]LogWorld: Bringing up level for play took: 0.001714
+[2019.05.14-01.50.26:888][417]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.50.26:899][417]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle -0.234
+[2019.05.14-01.50.26:946][417]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.28:728][630]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.28:733][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.50.28:768][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.50.28:768][630]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.50.28:809][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.50.28:832][632]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.05.14-01.50.29:567][720]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2019.05.14-01.50.30:708][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.50.48:463][943]BlueprintLog: New page: Compile AIController1
+[2019.05.14-01.50.49:073][978]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/AIController16C5C2513429122867845F38534BBF27A.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/AIController1.uasset'
+[2019.05.14-01.52.57:284][370]BlueprintLog: New page: Compile RandomMovement
+[2019.05.14-01.52.58:044][413]LogSavePackage: Moving '../../../../../dzung/crowd-sim/CrowdSimTest/Saved/RandomMovementBB4FEF3F4BEE52D883D6DCAF98D79D73.tmp' to '../../../../../dzung/crowd-sim/CrowdSimTest/Content/ThirdPersonBP/Blueprints/CrowdBrushGUI/RandomMovement.uasset'
+[2019.05.14-01.53.00:040][646]LogTemp: Repeating last play command: Simulate
+[2019.05.14-01.53.00:061][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.53.00:067][646]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.14-01.53.00:075][646]LogPlayLevel: [PlayLevel] Compiling AICharacter before play...
+[2019.05.14-01.53.00:366][646]LogPlayLevel: PlayLevel: Blueprint regeneration took 298 ms (1 blueprints)
+[2019.05.14-01.53.00:366][646]PIE: New page: SIE session: Circle (May 13, 2019, 5:53:00 PM)
+[2019.05.14-01.53.00:367][646]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle
+[2019.05.14-01.53.00:372][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005334s)
+[2019.05.14-01.53.00:372][646]LogAIModule: Creating AISystem for world Circle
+[2019.05.14-01.53.00:373][646]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2019.05.14-01.53.00:373][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/Circle.Circle to /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle (0.006108s)
+[2019.05.14-01.53.00:456][646]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.14-01.53.00:493][646]LogInit: FAudioDevice initialized.
+[2019.05.14-01.53.00:524][646]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.14-01.53.00:526][646]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle up for play (max tick rate 0) at 2019.05.13-21.53.00
+[2019.05.14-01.53.00:527][646]LogWorld: Bringing up level for play took: 0.001782
+[2019.05.14-01.53.00:538][646]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.14-01.53.00:551][646]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle 1.419
+[2019.05.14-01.53.00:602][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.53.00:618][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_0', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_1', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_2', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_3', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_4', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_5', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_6', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_7', movement 'Walking'
+[2019.05.14-01.53.00:619][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_8', movement 'Walking'
+[2019.05.14-01.53.00:620][647]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080409 > MaxSimulationTimeStep (0.050) for 'DetourCharacter_C_9', movement 'Walking'
+[2019.05.14-01.53.08:937][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2019.05.14-01.53.10:807][816]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:807][816]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:849][821]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:849][821]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:874][824]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:874][824]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:916][829]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:916][829]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:949][833]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:949][833]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:991][838]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.10:991][838]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:024][842]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:024][842]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:049][845]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:049][845]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:066][847]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:066][847]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:091][850]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:091][850]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:124][854]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:124][854]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:158][858]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:158][858]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:182][861]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:182][861]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:207][864]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:207][864]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:224][866]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:224][866]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:241][868]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:241][868]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:258][870]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:258][870]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:282][873]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:283][873]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:324][878]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.11:324][878]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.12:640][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.53.12:997][ 49]Cmd: EDIT COPY
+[2019.05.14-01.53.13:194][ 72]Cmd: EDIT PASTE
+[2019.05.14-01.53.15:602][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2019.05.14-01.53.16:273][363]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:273][363]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:281][364]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:281][364]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:289][365]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:290][365]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:298][366]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:298][366]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:306][367]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:306][367]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:314][368]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:314][368]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:323][369]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:323][369]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:331][370]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:331][370]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:339][371]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:339][371]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:348][372]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:348][372]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:356][373]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:356][373]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:365][374]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:365][374]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:373][375]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:373][375]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:381][376]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:381][376]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:389][377]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:390][377]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:398][378]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:398][378]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:406][379]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:406][379]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:414][380]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:415][380]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:423][381]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:423][381]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:431][382]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:431][382]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:440][383]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:440][383]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:448][384]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:448][384]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:456][385]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:456][385]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:473][387]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:473][387]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:481][388]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:481][388]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:490][389]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:490][389]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:498][390]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:498][390]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:506][391]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:506][391]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:523][393]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:523][393]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:531][394]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:531][394]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:548][396]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:548][396]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:565][398]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:565][398]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:573][399]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:573][399]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:581][400]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.16:582][400]PIE: Warning: Mobility of /Game/ThirdPersonBP/Maps/UEDPIE_0_Circle.Circle:PersistentLevel.1M_Cube_5 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.05.14-01.53.17:909][540]Cmd: TRANSACTION UNDO
+[2019.05.14-01.53.17:910][540]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.14-01.53.18:967][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.53.19:044][639]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.53.19:049][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.53.19:082][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.14-01.53.19:082][639]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle' with GeneratedClass '/Game/ThirdPersonBP/Maps/Circle.Circle_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Circle.Circle:PersistentLevel.Circle'
+[2019.05.14-01.53.19:126][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.14-01.53.19:166][640]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.05.14-01.53.20:216][764]LogSlate: Window 'Message Log' being destroyed
+[2019.05.14-01.53.20:219][764]LogSlate: Window 'Message Log' being destroyed
+[2019.05.14-01.53.21:242][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube)
+[2019.05.14-01.53.22:074][981]Cmd: EDIT COPY
+[2019.05.14-01.53.22:263][  3]Cmd: EDIT PASTE
+[2019.05.14-01.53.32:423][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.53.32:846][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.53.33:852][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube4)
+[2019.05.14-01.53.34:365][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.53.37:566][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube4)
+[2019.05.14-01.53.39:004][974]Cmd: EDIT COPY
+[2019.05.14-01.53.39:272][  5]Cmd: EDIT PASTE
+[2019.05.14-01.53.45:693][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.05.14-01.53.48:763][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.53.59:408][401]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.14-01.54.01:962][702]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2019.05.14-01.54.02:922][813]Cmd: DELETE
+[2019.05.14-01.54.02:922][813]Cmd: ACTOR DELETE
+[2019.05.14-01.54.02:926][813]LogEditorActor: Deleted Actor: Brush
+[2019.05.14-01.54.02:967][813]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.05.14-01.54.04:164][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.14-01.54.05:697][138]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.14-01.54.11:440][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
